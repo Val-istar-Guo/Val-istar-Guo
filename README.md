@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Val-istar-Guo/Val-istar-Guo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +11,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=val-istar-guo&show_icons=true" alt="github starts" />
+</p>
+
+<!--
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=val-istar-guo" alt="top languages" />
+</p>
 -->
