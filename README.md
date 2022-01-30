@@ -14,18 +14,18 @@ A bit about Myself, a full-stack developer from china. my passion for software l
 
 **favorite languages and tools:**
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://github.com/github/explore/blob/ce134dae21c7e7f85f2b6ca5a7b6f9b59765dcb0/topics/vim/vim.png"></code>
-<code><img height="30" src="https://github.com/github/explore/blob/ce134dae21c7e7f85f2b6ca5a7b6f9b59765dcb0/topics/typescript/typescript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="30" src="https://github.com/github/explore/blob/ce134dae21c7e7f85f2b6ca5a7b6f9b59765dcb0/topics/nuxt/nuxt.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="30" src="https://github.com/github/explore/blob/ce134dae21c7e7f85f2b6ca5a7b6f9b59765dcb0/topics/nestjs/nestjs.png"></code>
-<code><img height="30" src="https://github.com/github/explore/blob/ce134dae21c7e7f85f2b6ca5a7b6f9b59765dcb0/topics/ubuntu/ubuntu.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="30" src="https://github.com/github/explore/blob/ce134dae21c7e7f85f2b6ca5a7b6f9b59765dcb0/topics/redis/redis.png"></code>
-<code><img height="30" src="https://github.com/github/explore/blob/ce134dae21c7e7f85f2b6ca5a7b6f9b59765dcb0/topics/docker/docker.png"></code>
+<code><a href="https://git-scm.com/"><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></a></code>
+<code><a href="https://www.vim.org/"><img height="30" src="https://github.com/github/explore/blob/ce134dae21c7e7f85f2b6ca5a7b6f9b59765dcb0/topics/vim/vim.png"></a></code>
+<code><a href="https://www.typescriptlang.org/"><img height="30" src="https://github.com/github/explore/blob/ce134dae21c7e7f85f2b6ca5a7b6f9b59765dcb0/topics/typescript/typescript.png"></a></code>
+<code><a href="https://vuejs.org/"><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></a></code>
+<code><a href="https://nuxtjs.org/"><img height="30" src="https://github.com/github/explore/blob/ce134dae21c7e7f85f2b6ca5a7b6f9b59765dcb0/topics/nuxt/nuxt.png"></a></code>
+<code><a href="https://reactjs.org/"><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></a></code>
+<code><a href="https://nodejs.org/"><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></a></code>
+<code><a href="https://nestjs.com/"><img height="30" src="https://github.com/github/explore/blob/ce134dae21c7e7f85f2b6ca5a7b6f9b59765dcb0/topics/nestjs/nestjs.png"></a></code>
+<code><a href="https://ubuntu.com/"><img height="30" src="https://github.com/github/explore/blob/ce134dae21c7e7f85f2b6ca5a7b6f9b59765dcb0/topics/ubuntu/ubuntu.png"></a></code>
+<code><a href="https://www.mysql.com/"><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></a></code>
+<code><a href="https://redis.io/"><img height="30" src="https://github.com/github/explore/blob/ce134dae21c7e7f85f2b6ca5a7b6f9b59765dcb0/topics/redis/redis.png"></a></code>
+<code><a href="https://www.docker.com/"><img height="30" src="https://github.com/github/explore/blob/ce134dae21c7e7f85f2b6ca5a7b6f9b59765dcb0/topics/docker/docker.png"></a></code>
 
 
 
