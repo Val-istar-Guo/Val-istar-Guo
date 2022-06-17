@@ -19,7 +19,6 @@ A bit about Myself, a full-stack developer from china. my passion for software l
 <code><a href="https://www.vim.org/"><img height="30" src="https://github.com/github/explore/blob/ce134dae21c7e7f85f2b6ca5a7b6f9b59765dcb0/topics/vim/vim.png"></a></code>
 <code><a href="https://www.typescriptlang.org/"><img height="30" src="https://github.com/github/explore/blob/ce134dae21c7e7f85f2b6ca5a7b6f9b59765dcb0/topics/typescript/typescript.png"></a></code>
 <code><a href="https://vuejs.org/"><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></a></code>
-<code><a href="https://nuxtjs.org/"><img height="30" src="https://github.com/github/explore/blob/ce134dae21c7e7f85f2b6ca5a7b6f9b59765dcb0/topics/nuxt/nuxt.png"></a></code>
 <code><a href="https://reactjs.org/"><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></a></code>
 <code><a href="https://nodejs.org/"><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></a></code>
 <code><a href="https://nestjs.com/"><img height="30" src="https://github.com/github/explore/blob/ce134dae21c7e7f85f2b6ca5a7b6f9b59765dcb0/topics/nestjs/nestjs.png"></a></code>
