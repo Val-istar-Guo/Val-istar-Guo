@@ -4,14 +4,17 @@
 
 
 <p style="float: right">
-  <img height="320" width="440" align="right" src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" />
+  <img height="230" align="right" src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" />
 </p>
 
 A bit about Myself, a full-stack developer from China. My passion for software lies in bringing my whimsical ideas to life.
-
+  
 - My blog: https://val-istar-guo.com
 - My email: <val.istar.guo@gmail.com>
 - Currently building test tools for SHEIN
+
+  
+
 
 **favorite languages and tools:**
 
