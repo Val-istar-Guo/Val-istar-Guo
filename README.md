@@ -3,9 +3,9 @@
 <h1 align="center"> Hey, I'm Guo Zhihao</h1>
 
 
-<p style="float: right">
-  <img height="230" align="right" src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" />
-</p>
+
+<img height="230" align="right" src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" />
+
 
 A bit about Myself, a full-stack developer from China. My passion for software lies in bringing my whimsical ideas to life.
   
