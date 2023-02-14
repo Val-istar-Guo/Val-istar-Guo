@@ -7,7 +7,7 @@
   <img height="320" width="440" align="right" src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" />
 </p>
 
-A bit about Myself, a full-stack developer from China. My passion for software lies in bringing my whimsical ideas to life. I take great care in project architecture. Ensure it can be updated frequently and uninterruptedly.
+A bit about Myself, a full-stack developer from China. My passion for software lies in bringing my whimsical ideas to life.
 
 - My blog: https://val-istar-guo.com
 - My email: <val.istar.guo@gmail.com>
